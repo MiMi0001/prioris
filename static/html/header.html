@@ -1,0 +1,24 @@
+<?php
+    $username=$_SESSION["username"];
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prioris homework</title>
+</head>
+<body>
+  <div>
+      <div>
+          <img src="/static/img/prioris_logo.png"><br>
+          <h1>Prioris homework</h1>
+          <h3>You are logged in as: <strong><?php echo $username ?></strong></h3><br>
+          <a href="/">Main page</a>
+          <a href="/public">Public page</a>
+          <a href="/protected">Protected page</a>
+          <a href="/users-list">Users list</a>
+          <a href="/login">Login</a>
+          <a href="/register">Registration</a>
+      </div>
+  </div>
