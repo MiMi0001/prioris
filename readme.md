@@ -49,6 +49,8 @@ Additional settings needed:
             </Directory>
         </VirtualHost>
 
+    Replace "/opt/lampp/htdocs/prioris" with the location of the project.
+
 Restart Apache, and the app is usable at: mimi.prioris.com
 
 Thank You, for the opportunity!
