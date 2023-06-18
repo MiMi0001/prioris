@@ -1,6 +1,8 @@
 Prioris homework project
 
 
+You can find the database dump in the database.dump file.
+
 For the project I used only the phpdotenv external library, for loading variables from . env file.
 I tried to give a structure to the project, in the short time (4 hours), I created an MVC-like structure.
 
@@ -15,7 +17,7 @@ Because the time was limited, I used HTTP Basic Authentication. It is not very s
 I also created a registration page, to register new users, and a Users list page, to showcase some basic JS usage.
 JS is implemented with OOP, using classes.
 
-I timed my work. I finished it in 3h:47m. Unfortunately no time left for additional features and to add some fancy CSS.
+I timed my work. I finished it within 4 hours.. Unfortunately no time left for additional features and to add some fancy CSS.
 Sorry for the basic "design"!
 Some additional time was used to write this file.
 I uploaded the project to gitHub after I finished it, so there are no commits.
@@ -53,7 +55,6 @@ Additional settings needed:
 
 Restart Apache, and the app is usable at: mimi.prioris.com
 
-You can find the database dump in the database.dump file.
 
 Thank You, for the opportunity!
 Best regards: Imre Moskovits (MiMi)
