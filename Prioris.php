@@ -26,7 +26,7 @@ class Prioris
                 Auth::authenticate([RegisterController::class, "renderRegister"], false);
                 break;
             case "/users-list":
-                Auth::authenticate([UsersListController::class, "renerusersList"],true);
+                Auth::authenticate([UsersListController::class, "renderUsersList"],true);
                 break;
             case "/login":
                 Auth::authenticate([LoginController::class, "renderLogin"], true);

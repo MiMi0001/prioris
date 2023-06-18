@@ -7,7 +7,7 @@ use Prioris\model\Queryrepository as QR;
 
 class UsersListController
 {
-    public static function renerusersList(){
+    public static function renderUsersList(){
         View::renderHtml("users_list.html");
     }
 
