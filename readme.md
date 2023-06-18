@@ -15,7 +15,7 @@ Because the time was limited, I used HTTP Basic Authentication. It is not very s
 I also created a registration page, to register new users, and a Users list page, to showcase some basic JS usage.
 JS is implemented with OOP, using classes.
 
-I timed my work. I finished it in 3h:57m. Unfortunately no time left for additional features and to add some fancy CSS.
+I timed my work. I finished it in 3h:47m. Unfortunately no time left for additional features and to add some fancy CSS.
 Sorry for the basic "design"!
 Some additional time was used to write this file.
 I uploaded the project to gitHub after I finished it, so there are no commits.
