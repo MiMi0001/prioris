@@ -53,5 +53,7 @@ Additional settings needed:
 
 Restart Apache, and the app is usable at: mimi.prioris.com
 
+You can find the database dump in the database.dump file.
+
 Thank You, for the opportunity!
 Best regards: Imre Moskovits (MiMi)
